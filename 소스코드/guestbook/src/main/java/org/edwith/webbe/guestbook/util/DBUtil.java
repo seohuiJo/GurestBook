@@ -5,7 +5,7 @@ import java.sql.*;
 public class DBUtil {
     public static Connection getConnection(){
         // 본인 database에 맞게끔 수정해주세요.
-        return getConnection("jdbc:mysql://localhost:3306/connectdb?useUnicode=true&characterEncoding=utf8&useSSL=false","connectuser","connect123!@#");
+        return getConnection("jdbc:mysql://localhost:3306/connectdb?useUnicode=true&characterEncoding=utf8&useSSL=false","duck","csb7256!");
     }
 
     public static Connection getConnection(String dbURL, String dbId, String dbPassword){
