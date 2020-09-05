@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d593af35-f46f-4619-ab46-fba1f18f5f6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/guestbook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/edwith/webbe/guestbook/servlet/GuestbookListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edwith/webbe/guestbook/servlet/GuestbookListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/edwith/webbe/guestbook/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edwith/webbe/guestbook/util/DBUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +47,30 @@
       <updated>1582365383099</updated>
       <workItem from="1582365384324" duration="149000" />
       <workItem from="1582753535029" duration="6000" />
-      <workItem from="1598961165962" duration="2112000" />
+      <workItem from="1598961165962" duration="2197000" />
     </task>
+    <task id="LOCAL-00001" summary="변경">
+      <created>1599012199023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599012199023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="변경" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1599012192072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599012192072" />
     <state x="516" y="238" width="502" height="204" key="Github.ShareDialog" timestamp="1598961483326">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -68,6 +79,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598961438019" />
+    <state x="278" y="118" key="Vcs.Push.Dialog.v2" timestamp="1599012200352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="278" y="118" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599012200352" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598961470070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
